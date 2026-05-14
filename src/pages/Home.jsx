@@ -58,11 +58,7 @@ const Home = () => {
 
         {/* Right Side: Banner Image */}
         <div className="relative">
-          <img 
-            src="/src/assets/banner.png" 
-            alt="Banner" 
-            className="object-cover w-full h-auto border border-gray-100 shadow-2xl rounded-2xl"
-          />
+          <img src="/banner.png" alt="Banner" className="object-cover w-full h-auto border border-gray-100 shadow-2xl rounded-2xl" />
           {/* Optional: Add decorative background element to match premium feel */}
           <div className="absolute w-64 h-64 bg-purple-100 rounded-full opacity-50 -z-10 -top-10 -right-10 blur-3xl"></div>
         </div>
