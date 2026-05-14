@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality blogs and marketing copy in seconds.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "popular",
+    "features": ["Unlimited generations", "50+ templates", "SEO optimization"],
+    "icon": "📝"
+  },
+  {
+    "id": 2,
+    "name": "Design Studio",
+    "description": "2000+ premium templates for social media and marketing.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Commercial license", "Monthly updates", "Drag & drop"],
+    "icon": "🎨"
+  },
+  {
+    "id": 3,
+    "name": "Cloud Storage Plus",
+    "description": "Secure your data with encrypted high-speed cloud storage.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["1TB Storage", "File sharing", "End-to-end encryption"],
+    "icon": "☁️"
+  },
+  {
+    "id": 4,
+    "name": "SEO Analyzer",
+    "description": "Boost your website ranking with deep technical insights.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Best Value",
+    "tagType": "popular",
+    "features": ["Keyword tracking", "Backlink audit", "Daily reports"],
+    "icon": "🚀"
+  },
+  {
+    "id": 5,
+    "name": "Video Editor Web",
+    "description": "Edit professional videos directly in your browser.",
+    "price": 35,
+    "period": "monthly",
+    "tag": "Pro",
+    "tagType": "new",
+    "features": ["4K Export", "Stock footage", "AI auto-cut"],
+    "icon": "🎬"
+  },
+  {
+    "id": 6,
+    "name": "Email Master",
+    "description": "Automate your email campaigns and lead generation.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Bestseller",
+    "tagType": "popular",
+    "features": ["A/B Testing", "10k Contacts", "Advanced analytics"],
+    "icon": "📧"
+  }
+]
